@@ -9,6 +9,6 @@
     "invoke": "node scripts/invoke.mjs"
   },
   "dependencies": {
-    "@stellar/stellar-sdk": "^16.0.1"
+    "@stellar/stellar-sdk": "^17.0.0"
   }
 }
